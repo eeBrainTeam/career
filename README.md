@@ -25,7 +25,6 @@ GAME DEVELOPMENT DEPARTMENT
 ---
 
 Genel olarak aradığımız özellikler:
-- B1 veya üstü İngilizce bilgisine sahip olmak.
 - Dinamik ve araştırmacı ruhlu olmak.
 - Takımlar arası iyi iletişim kabiliyeti.
 - `Tasarım Takımı İçin:` Temel tasarım bilgisine sahip olmak.
