@@ -37,4 +37,4 @@ Genel olarak aradığımız özellikler:
 
 Aramıza katılmak isteyen tasarımcı ve geliştirici öğrenciler için Adobe lisansı ile beraber eğitici kaynaklar ilgili takım kaptanları tarafından sunulacaktır.
 
-İletişim: eebrainteam@gmail.com
+İletişim:[eeBrainTeam Mail](mailto:eebrainteam@gmail.com)
