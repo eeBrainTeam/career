@@ -4,13 +4,10 @@ Yeni arkadaşlar arıyoruz! Kendini geliştirmekten hoşlanan, aşağıda belirt
 ## **AÇIK POZİSYONLAR**
 ```
 WEB DEVELOPMENT DEPARTMENT
-- Junior Front-End Developer
-- Junior Back-End Developer
 - QA Tester
 ```
 ```
 DESIGN AND CREATIVITY DEPARTMENT
-- Sound Designer
 - Junior UI/UX Designer
 - Junior Graphics Designer
 - Senior Graphics Designer (2+ Yıl Sektör Tecrübesi)
